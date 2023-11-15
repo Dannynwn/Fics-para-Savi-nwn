@@ -1,0 +1,688 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.image {
+    width: 50px;
+    height: 50px;
+    opacity: .6;
+    vertical-align: middle;
+    margin: 15px 15px;
+
+}
+
+.image1 {
+    width: 50px;
+    height: 50px;
+    opacity: 1;
+    vertical-align: middle;
+    position: relative;
+    background-size: cover;
+}
+
+.image2 {
+    width: 50%;
+    height: 100%;
+    opacity: 1;
+    vertical-align: middle;
+
+}
+
+aside p {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    text-align: center;
+    border-top: 3px solid white;
+    padding-top: 30px;
+}
+
+p1 {
+    font-size: 18px;
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(#974f94, rgb(53, 32, 56));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+p2 {
+    font-size: 18px;
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(#ff3e9e, rgb(106, 46, 112));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+p3 {
+    font-size: 20px;
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(#974f68, rgb(56, 32, 39));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+p4 {
+    font-size: 20px;
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(#974f94, rgb(53, 32, 56));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+p5 {
+    font-size: 20px;
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(#ab61ff, rgb(128, 31, 173));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+p6 {
+    font-size: 20px;
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(#ffd3b5, rgb(133, 108, 88));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+p7 {
+    font-size: 20px;
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(#b5d8ff, rgb(88, 95, 133));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+p8 {
+    font-size: 20px;
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(#ffb04f, rgb(83, 45, 32));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+p9 {
+    font-size: 20px;
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: radial-gradient(#4ffffc, rgb(32, 83, 47));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+a1 {
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    line-height: 50%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 900;
+
+}
+
+a2 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 900;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#ffbb00, rgb(43, 0, 0));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+a3 {
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    line-height: 50%;
+    font: oblique bold 80% cursive;
+    font-weight: bold;
+    font-weight: 20;
+}
+
+h3 {
+    font-size: 15px;
+    color: rgba(255, 0, 140, 0.555);
+    line-height: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+h4 {
+    font-size: 300px;
+    color: rgba(255, 37, 248, 0.555);
+    line-height: 50%;
+    font: oblique bold 100% cursive;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+a4 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 900;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#ff008c, rgb(43, 0, 0));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+a5 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 700;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#a200ff, rgb(0, 0, 59));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+a6 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 700;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#008cff, rgb(0, 0, 59));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+a7 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 700;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#ffc772, rgb(44, 32, 0));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+a8 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 700;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#ef72ff, rgb(28, 0, 44));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+a9 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 700;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#ff72a8, rgb(44, 0, 10));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+b1 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 700;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#9aceff, rgb(0, 66, 86));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+b2 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 700;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#ff7913, rgb(86, 0, 0));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+b3 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 700;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#f313ff, rgb(86, 0, 0));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+b4 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 700;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#ff8913, rgb(86, 0, 0));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+b4 {
+    font-size: 100px;
+    line-height: 100%;
+    font-family: "Constantia", serif;
+    font-weight: bold;
+    font-weight: 700;
+    background: rgb(160, 0, 80);
+    background: radial-gradient(#94f45c, rgb(9, 0, 86));
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text
+}
+
+a {
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    font-weight: 20;
+    text-align: center;
+    vertical-align: middle;
+}
+
+a2 {
+    font-size: 12px;
+    color: rgb(255, 115, 0);
+    font-family: "a r i a l", serif;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "GNU Unifont", Verdana, Helvetica, sans-serif;
+    line-height: 150%;
+    font-weight: 50;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.header {
+    margin: auto;
+    width: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 50px;
+}
+
+.reader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    line-height: 30%;
+}
+
+.nav li a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+    transition-duration: 0.2s;
+}
+
+.nav li a:hover {
+    color: bisque;
+    font-size: 1rem;
+    transition-duration: 0.3s;
+}
+
+.nav>li {
+    float: none;
+}
+
+.nav li ul {
+    display: none;
+    position: absolute;
+    min-width: 140px;
+    display: Flex;
+
+}
+
+.nav li:hover>ul {
+    display: block;
+}
+
+.row {
+    display: flex;
+    flex-flow: row wrap;
+    line-height: 30%;
+    height: 80%;
+    align-items: center;
+    justify-content: center;
+}
+
+aside {
+    background-color: rgba(248, 1, 1, 0);
+    padding: 5px;
+    text-align: center;
+}
+
+.aside2 {
+    flex: 10px;
+    background-color: rgba(243, 243, 243, 0.082);
+    padding: 5px;
+
+}
+
+section {
+    padding: 5px;
+}
+
+footer {
+    background-color: rgba(85, 85, 85, 0.377);
+    padding: 5px;
+}
+
+#erotic-fanfics {
+    display: flex;
+    flex-flow: row wrap;
+    max-width: 1450px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 150px;
+    padding: 30px 0;
+}
+
+#fanfic-cute {
+    display: flex;
+    background-color: rgba(204, 165, 226, 0.24);
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 30px 0;
+}
+
+#fanfic-cute1 {
+    background-color: rgba(165, 181, 226, 0.24);
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 30px 0;
+}
+
+#fanfic-cute2 {
+    display: flex;
+    background-color: rgba(226, 165, 178, 0.24);
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 30px 0;
+}
+
+#fanfic-cute3 {
+    display: flex;
+    background-color: rgba(226, 183, 165, 0.24);
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 30px 0;
+}
+
+#fanfic-cute4 {
+    display: flex;
+    background-color: rgba(203, 226, 165, 0.24);
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 30px 0;
+}
+
+#fanfic-cute5 {
+    display: flex;
+    background-color: rgba(226, 165, 226, 0.24);
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 30px 0;
+}
+
+.fanfic-cute div {
+    padding: 30px;
+    width: 50%;
+}
+
+.fanfic-container {
+    display: flex;
+    width: 550px;
+    background-color: rgba(226, 165, 188, 0.151);
+    height: 250px;
+    margin: 0;
+    transition-duration: 0.3s;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.fanfic-container1 {
+    display: flex;
+    width: 550px;
+    background-color: rgba(216, 165, 226, 0.151);
+    height: 250px;
+    margin: 0;
+    transition-duration: 0.3s;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.fanfic-container:hover {
+    box-shadow: 0 0 50px rgba(255, 214, 234, 0.267);
+    transform: scale(1.1);
+    transition-duration: 0.3s;
+
+}
+
+.fanfic-container1:hover {
+    box-shadow: 0 0 50px rgba(255, 214, 255, 0.267);
+    transform: scale(1.1);
+    transition-duration: 0.3s;
+
+}
+
+.fanfic-container p {
+    font-size: 13.5px;
+    color: rgba(255, 222, 242, 0.747);
+    line-height: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-weight: 20;
+}
+
+.fanfic-container1 p {
+    font-size: 100px;
+    color: rgba(255, 222, 250, 0.747);
+    line-height: 50%;
+    font: oblique bold 80% cursive;
+    font-weight: bold;
+    font-weight: 20;
+}
+
+.fanfic-container div {
+    padding: 30px;
+    width: 50%;
+}
+
+.fanfic-container1 div {
+    padding: 30px;
+    width: 50%;
+}
+
+* {
+    padding: 0;
+}
+
+.footer {
+    margin: 0 30px;
+}
+
+.footer .nav {
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.footer .nav p {
+    width: 400px;
+    text-align: center;
+    color: white;
+}
+
+.navigation .nav {
+    display: flex;
+    justify-content: center;
+}
+
+.link-with-border {
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+
+#header .nav {
+    display: flex;
+    justify-content: center;
+}
+
+hr {
+    background-color: white;
+    margin: 20px 0;
+}
+
+@media only screen and (max-width: 950px) {
+    .row aside {
+        line-height: 50px;
+        margin: 0 30px;
+        font-size: smaller;
+    }
+
+
+    .footer .nav a {
+        width: 100%
+    }
+
+    .container {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .container div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .row {
+        height: 60%;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
